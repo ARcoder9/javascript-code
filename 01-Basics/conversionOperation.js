@@ -25,8 +25,7 @@ console.log(booleanloggedIn)
 // null => false
 // undefined => false
 
-let someNumber = undefined
-
+let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber)
 console.log(stringNumber);

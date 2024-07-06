@@ -3,13 +3,6 @@ let score = "33"
 console.log(typeof score);
 // console.log(typeof(score)); // another way to write type of
 
-let valueInNumber = Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber)
-
-// console.log(typeof score);
-// console.log(typeof(score)); // another way to write type of
-
 let valueInNumber = Number(score) 
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber)

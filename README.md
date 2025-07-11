@@ -69,14 +69,6 @@ This repo follows a **build-first** approach. I don’t just consume tutorials�
 
 ---
 
-## 🚧 In Progress
-
-- [ ] Unit Testing with Jest
-- [ ] JavaScript Design Patterns
-- [ ] TypeScript Fundamentals
-- [ ] Frontend Interview Questions Practice
-
----
 
 ## 🤝 Let's Connect
 
@@ -84,7 +76,7 @@ If you're a recruiter, developer, or someone who loves to collaborate—I'd love
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayushrjn/)
 - 📬 Email: work.ayushrjn@gmail.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 🌐 Portfolio: [My_Portfolio]()
 
 ---
 
